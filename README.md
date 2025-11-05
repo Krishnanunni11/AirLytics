@@ -142,8 +142,8 @@ The model is not trained on real aviation data and should not be used for real-w
 
 ## 👨‍💻 Author
 
-Krishnanunni H Pillai
-Aspiring Data Scientist & Software Developer
+Krishnanunni H Pillai, 
+Aspiring Data Scientist & Software Developer,
 Passionate about Machine Learning, Data Analytics, and Intelligent Systems.
 
 
