@@ -81,15 +81,14 @@ AirLytics/
 ## 🧰 How to Run  
 
 ### 🖥️ Step 1 – Run Flask Server (Python)
-```bash
+```
 cd Model
 pip install flask joblib
 python app.py
 ```
 <img width="1920" height="1020" alt="Screenshot 2025-09-25 073320" src="https://github.com/user-attachments/assets/cdfb6351-c75b-4c84-908f-9cc334aae800" />
 On a new cmd
-```bash
-
+```
 cd UI
 javac -cp .;json-20231013.jar FlightPredictor.java CSVUtils.java
 java -cp .;json-20231013.jar FlightPredictor
